@@ -25,3 +25,20 @@ Security and Location Enable Screen
 Although this page is for enabling security(PIN/password/faceID) and would be handled mostly
 on the frontend but this page will also have a pop-up for getting access to location of the 
 user which would be used for showing store locations and stuff in the app.
+
+HomePage after Signup/Login
+=========================
+
+<img width="228" alt="homepage" src="https://user-images.githubusercontent.com/125003312/226851087-5ed38e06-1342-4712-be67-393820a730a3.png">
+This is what a user sees when they signup for the first time. In the AppBar at the top is
+a salutation for the user and on the other side of the appbar is user's amount of plus coins
+and another option for help/chatting with a rep.
+
+This page will redirect to 7-10 pages.
+Mainly -
+1. Start Savings Page (It will have options to choose between **Plus_Safe** and __Jewellery_Savings__)
+2. Explore Savings Page (It will have schemes from all the brands which are partners of __PLUS__)
+3. Top Offers Nearby Page (It will have offers from the nearby stores which are __PLUS__ partners.
+4. Below the title Savings Ki Baatein there is a thing called 
+
+
