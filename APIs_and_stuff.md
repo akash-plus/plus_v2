@@ -31,7 +31,7 @@ HomePage after Signup/Login
 
 <img width="228" alt="homepage" src="https://user-images.githubusercontent.com/125003312/226851087-5ed38e06-1342-4712-be67-393820a730a3.png">
 This is what a user sees when they signup for the first time. In the AppBar at the top is
-a salutation for the user and on the other side of the appbar is user's amount of plus coins
+"hi user" and on the other side of the appbar is user's amount of plus coins
 and another option for help/chatting with a rep.
 
 This page will redirect to 7-10 pages.
